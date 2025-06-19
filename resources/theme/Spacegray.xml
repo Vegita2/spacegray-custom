@@ -492,6 +492,11 @@
         <option name="FOREGROUND" value="66e6af" />
       </value>
     </option>
+    <option name="NG.PROPERTY_BINDING_ATTR_NAME">
+      <value>
+        <option name="FOREGROUND" value="678cb1" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e85656" />
